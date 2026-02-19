@@ -6,7 +6,7 @@ public class ListIterator {
 
     /** Constructs a list iterator, starting at the given node. */
     public ListIterator(Node node) {
-        // Sets the cursor of this iterator to the given nodee
+        // Sets the cursor of this iterator to the given node
         current = node;
     }
 
